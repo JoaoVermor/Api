@@ -57,14 +57,17 @@
                 {
                     "name": "Dominando Conceitos Avançados em JavaScript",
                     "link": "https://www.dio.me/certificate/8C356C13"
+                    "site": true
                 },
                 {
                     "name": "JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática",
                     "link": "https://www.dio.me/certificate/4D575BA8"
+                    "site": true
                 },
                 {
                     "name": "Fundamentos da Plataforma Java",
                     "link": "https://www.dio.me/certificate/E978D584"
+                    "site": true
                 }
             ]
         }

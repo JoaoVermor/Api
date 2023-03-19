@@ -69,10 +69,16 @@
                 "site": true
             },
             {
+                "name": "Formação JavaScript Developer",
+                "link": "https://www.dio.me/certificate/DC7D2A79",
+                "site": true
+            },
+            {
                 "name": "Fundamentos da Plataforma Java",
                 "link": "https://www.dio.me/certificate/E978D584",
                 "site": true
             }
+            
         ],
     "portfolio": [
         {

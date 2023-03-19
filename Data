@@ -49,29 +49,31 @@
         "Português",
         "Inglês (Intermediário)"
     ],
-    "education": [
-        {
-            "description": "Graduando em engenharia da computação, Universidade Federal de Itajubá",
-            "period": "2020 - Atualmente",
-            "certificados": [
-                {
-                    "name": "Dominando Conceitos Avançados em JavaScript",
-                    "link": "https://www.dio.me/certificate/8C356C13",
-                    "site": true
-                },
-                {
-                    "name": "JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática",
-                    "link": "https://www.dio.me/certificate/4D575BA8",
-                    "site": true
-                },
-                {
-                    "name": "Fundamentos da Plataforma Java",
-                    "link": "https://www.dio.me/certificate/E978D584",
-                    "site": true
-                }
-            ]
-        }
-    ],
+    "education": {
+        "college": [
+            {
+                "description": "Graduando em engenharia da computação, Universidade Federal de Itajubá",
+                "period": "2020 - Atualmente" 
+            }
+        ]
+    },
+        "certificates": [
+            {
+                "name": "Dominando Conceitos Avançados em JavaScript",
+                "link": "https://www.dio.me/certificate/8C356C13",
+                "site": true
+            },
+            {
+                "name": "JavaScript para Web: Fundamentos de HTML, CSS e APIs na Prática",
+                "link": "https://www.dio.me/certificate/4D575BA8",
+                "site": true
+            },
+            {
+                "name": "Fundamentos da Plataforma Java",
+                "link": "https://www.dio.me/certificate/E978D584",
+                "site": true
+            }
+        ],
     "portfolio": [
         {
             "name": "Criação de Cards de Dark Souls com React, Node e PostgreSQL",
